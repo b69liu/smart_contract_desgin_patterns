@@ -4,3 +4,4 @@ The main idea is to use one proxy contract to delegate call to our contract, so 
 
 1. [Inherited Storage](./InheritedStorage) 
 2. [External Storage](./ExternalStorage) 
+2. [Hashed Storage Position](./HashedStoragePosition) 
